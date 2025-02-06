@@ -1,9 +1,7 @@
 # Aritro Mukherjee - Data Analytics Portfolio
 ---------------------------------------------
-
 ## About
 ---------------------------------------------
-
 Hi, I am Aritro. I am an aspiring data analyst on a journey to explore an intriguing world of data and analytics.
 
 📊 Data Enthusiast: Passionate about turning raw data into meaningful insights, I thrive on the thrill of discovering patterns, trends, and stories hidden within the numbers.
@@ -12,7 +10,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Portfolio Projects -
 ---------------------------------------------
-
 ## Adventure WorkSpace Report
 
 The report provides an overview of Adventure WorkSpace's sales, revenue, profitability, and customer insights. Key metrics include revenue, return rate, profit, and order volume, along with trends in product sales, returns, and customer demographics.
